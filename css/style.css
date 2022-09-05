@@ -3,6 +3,7 @@
     margin: 0px;
     padding: 0px;
 }
+/*facebook css*/
 .facebook{
     display: flex;
     background-color: rgb(240,242,245);
@@ -13,6 +14,7 @@
 .facebook-left{
     margin-left: 75px;
 }
+/*img css*/
 img{
     margin-top: 320px;
     height: 140px;
@@ -28,7 +30,7 @@ p{
 .facebook-right{
     margin: 200px;
 
-
+/*facebook container css*/
 }
 .facebook-container{
     background-color: rgb(255, 255, 254);
@@ -41,6 +43,7 @@ p{
     border: 1px solid #eef0f2;
     box-shadow: 5px;
 }
+/*input css*/
 input{
     margin-top: 25PX;
     height: 30px;
@@ -48,7 +51,7 @@ input{
     border-radius: 5px;
     border: 2px solid #e1e5e8;
     font-size: 18px;
-
+/*facebook button*/
 }
 button{
 background-color: blue;
@@ -73,11 +76,13 @@ a{
     text-align: center;
     margin-left: 35px;
 }
+/*create css*/
 #create{
    
     background-color: green;
     width: 200px;
 }
+
 .create-a-page{
     margin-left: 80px;
 }
