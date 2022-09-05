@@ -8,7 +8,7 @@
     background-color: rgb(240,242,245);
     font-family: inherit;
     font-size: 20px;
-    height: 700px;
+    height: 730px;
 }
 .facebook-left{
     margin-left: 75px;
@@ -27,6 +27,8 @@ p{
 }
 .facebook-right{
     margin: 200px;
+  
+
 }
 .facebook-container{
    background-color: rgb(255, 255, 254);
@@ -38,7 +40,6 @@ p{
     margin-left: 25px;
     border: 1px solid #eef0f2;
     box-shadow: 5px;
-
 }
 input{
     margin-top: 25PX;
