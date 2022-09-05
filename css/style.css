@@ -1,0 +1,83 @@
+/*facebook page login css*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.facebook{
+    display: flex;
+    background-color: rgb(240,242,245);
+    font-family: inherit;
+    font-size: 20px;
+    height: 700px;
+}
+.facebook-left{
+    margin-left: 75px;
+}
+img{
+    margin-top: 350px;
+    height: 160px;
+    width: 300px;
+    margin-bottom: -25px;
+    margin-left: 30px;
+}
+
+p{
+    margin-left: 60Px;
+    font-size: 25px;
+}
+.facebook-right{
+    margin: 200px;
+}
+.facebook-container{
+   background-color: rgb(255, 255, 254);
+    border-radius: 10px;
+   text-align: center;
+    height: 400px;
+    width: 475px;
+    margin: 15px;
+    margin-left: 25px;
+    border: 1px solid #eef0f2;
+    box-shadow: 5px;
+
+}
+input{
+    margin-top: 25PX;
+    height: 45px;
+    width: 400px;
+    border-radius: 5px;
+    border: 2px solid #e1e5e8;
+    font-size: 18px;
+
+}
+button{
+background-color: blue;
+color: white;
+width: 400px;
+font-size: 20px;
+border: none;
+border-radius: 5px;
+height: 45px;
+
+}
+
+a{
+    text-decoration: none;
+}
+.horizontal{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+   width: 400px;
+    margin: 20px 16px;
+    text-align: center;
+    margin-left: 35px;
+}
+#create{
+   
+    background-color: green;
+    width: 200px;
+}
+.create-a-page{
+    margin-left: 80px;
+}
+
